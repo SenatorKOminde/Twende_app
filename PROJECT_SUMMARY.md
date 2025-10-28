@@ -182,3 +182,4 @@ The Twende platform foundation is complete and ready for the next development ph
 > Update 7: Improved system stability.
 > Update 10: Improved system stability.
 > Update 13: Improved system stability.
+> Update 16: Improved system stability.
